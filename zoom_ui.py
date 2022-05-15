@@ -2,6 +2,7 @@ import mido
 from PyQt5 import QtWidgets, uic
 from PyQt5.QtWidgets import *
 import sys
+# Location of QT Designer:
 # C:\Users\vimal\Documents\repos\python\venvPyQt\Lib\site-packages\qt5_applications\Qt\bin\designer.exe
 
 
